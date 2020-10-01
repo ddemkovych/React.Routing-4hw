@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React.Routing-4hw/static/css/main.5f361e03.chunk.css",
+    "main.js": "/React.Routing-4hw/static/js/main.eebdfe6d.chunk.js",
+    "main.js.map": "/React.Routing-4hw/static/js/main.eebdfe6d.chunk.js.map",
+    "runtime-main.js": "/React.Routing-4hw/static/js/runtime-main.a1a8cf1e.js",
+    "runtime-main.js.map": "/React.Routing-4hw/static/js/runtime-main.a1a8cf1e.js.map",
+    "static/js/2.c9efceb9.chunk.js": "/React.Routing-4hw/static/js/2.c9efceb9.chunk.js",
+    "static/js/2.c9efceb9.chunk.js.map": "/React.Routing-4hw/static/js/2.c9efceb9.chunk.js.map",
+    "index.html": "/React.Routing-4hw/index.html",
+    "precache-manifest.40142e5dd82dfb43cee0f9758185e078.js": "/React.Routing-4hw/precache-manifest.40142e5dd82dfb43cee0f9758185e078.js",
+    "service-worker.js": "/React.Routing-4hw/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/React.Routing-4hw/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c9efceb9.chunk.js.LICENSE.txt": "/React.Routing-4hw/static/js/2.c9efceb9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/React.Routing-4hw/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1a8cf1e.js",
+    "static/js/2.c9efceb9.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.eebdfe6d.chunk.js"
+  ]
+}
